@@ -1,0 +1,7 @@
+C:\Users\spp\source\repos\MyIndividualProject\MyIndividualProject\bin\Debug\MyIndividualProject.exe.config
+C:\Users\spp\source\repos\MyIndividualProject\MyIndividualProject\bin\Debug\MyIndividualProject.exe
+C:\Users\spp\source\repos\MyIndividualProject\MyIndividualProject\bin\Debug\MyIndividualProject.pdb
+C:\Users\spp\source\repos\MyIndividualProject\MyIndividualProject\obj\Debug\MyIndividualProject.csprojAssemblyReference.cache
+C:\Users\spp\source\repos\MyIndividualProject\MyIndividualProject\obj\Debug\MyIndividualProject.csproj.CoreCompileInputs.cache
+C:\Users\spp\source\repos\MyIndividualProject\MyIndividualProject\obj\Debug\MyIndividualProject.exe
+C:\Users\spp\source\repos\MyIndividualProject\MyIndividualProject\obj\Debug\MyIndividualProject.pdb
